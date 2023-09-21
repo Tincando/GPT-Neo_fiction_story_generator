@@ -4,6 +4,20 @@ Ovaj model je fino podešena verzija [EleutherAI-jevog GPT-Neo-125M](https://hug
 
 Obučen je na skupu podataka dostupnom [ovdje](https://github.com/facebookresearch/fairseq/tree/main/examples/stories).
 
+## Upotrebe i ograničenja
+
+Model je dizajniran za generiranje kreativnih fiktivnih priča. Može se koristiti u razne svrhe, uključujući, ali ne ograničavajući se na:
+
+- Pripovijedanje: Generiranje zanimljivih i maštovitih fiktivnih priča.
+- Generiranje Sadržaja: Stvaranje sadržaja za blogove, web stranice ili druge medije s elementom pripovijedanja.
+- Kreativno Pisanje: Pomoć autorima i piscima pri razmišljanju o idejama i razvijanju narativa.
+
+## Performanse Modela
+
+- Podaci za Obuku: Model je obučen na raznolikom skupu podataka fiktivnih priča i prompteva.
+- Metrike Evaluacije: Performanse metrika, kao što su perpleksnost ili BLEU skorovi, mogu varirati ovisno o konkretnom zadatku i skupu podataka.
+
+
 ## Upotreba
 Da biste koristili model za generiranje priča u Jupyter bilježnici (Jupyter Notebook), slijedite ove korake:
 
