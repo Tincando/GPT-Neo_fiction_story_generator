@@ -3,6 +3,7 @@
 Ovaj model je fino podešena verzija [EleutherAI-jevog GPT-Neo-125M](https://huggingface.co/EleutherAI/gpt-neo-125m) modela, optimiziran za generiranje fiktivnih priča.
 
 Obučen je na skupu podataka dostupnom [ovdje](https://github.com/facebookresearch/fairseq/tree/main/examples/stories).
+Link na Paperspace notebook nalazi se [ovdje](https://console.paperspace.com/tincando/notebook/rwb1wo2tukeo4km)
 
 ## Upotrebe i ograničenja
 
