@@ -49,6 +49,13 @@ print(generated_story)
 * Jupyter Notebook
 * Datasets: [Fairseq Repository](https://github.com/facebookresearch/fairseq/tree/main/examples/stories)
 
+## Citiranje
+Ako koristite ovaj model u svojem radu, molimo razmislite o citiranju originalnog GPT-Neo modela i skupa podataka koji su korišteni za fino podešavanje:
+
+- [GPT-Neo Paper](https://github.com/EleutherAI/gpt-neo)
+- [Fairseq Repository](https://github.com/facebookresearch/fairseq/tree/main/examples/stories)
+- [Hierarchical Neural Story Generation](https://arxiv.org/abs/1805.04833)
+
 ## Other
 
 * FIPU: https://fipu.unipu.hr/
